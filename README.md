@@ -6,7 +6,7 @@ CentOS 7 Docker container for Ansible playbook and role testing.
 
 ## Tags
 
-  - `latest`: Latest stable version of Ansible, on Python 2.7.x.
+  - `latest`: Latest stable version of Ansible, on Python 3
 
 The latest tag is a lightweight image for basic validation of Ansible playbooks. The `testing` tag also includes a comprehensive suite of Ansible and infrastructure testing tools in case you want them pre-installed.
 
