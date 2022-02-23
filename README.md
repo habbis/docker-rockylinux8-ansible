@@ -1,6 +1,6 @@
 # Rocky Linux 8 Ansible Test Image
 
-[![CI](https://github.com/habbis/docker-rockylinux8-ansible/workflows/Build/badge.svg?branch=main&event=push)](https://github.com/habbis/docker-rockylinux8-ansible) [![Docker pulls](https://img.shields.io/docker/pulls/habbis0/docker-rockylinux8-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/habbis0/docker-rockylinux8-ansible/)
+[![CI](https://github.com/habbis/docker-rockylinux8-ansible/workflows/Build/badge.svg?branch=main&event=push)](https://github.com/habbis/docker-rockylinux8-ansible) [![Docker pulls](https://img.shields.io/docker/pulls/habbis0/docker-rockylinux8-ansible)](https://hub.docker.com/r/habbis0/ocker-rockylinux8-ansible/)
 
 CentOS 7 Docker container for Ansible playbook and role testing.
 
