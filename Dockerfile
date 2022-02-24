@@ -31,7 +31,7 @@ RUN yum -y install rpm dnf-plugins-core \
       python3-pyyaml \
  && yum clean all
 
-# Upgrade pip to latest version.
+## Upgrade pip to latest version.
 RUN pip3 install --upgrade pip
 
 # Install Ansible via Pip.
